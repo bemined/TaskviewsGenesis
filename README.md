@@ -1,5 +1,13 @@
 ## Taskviews genesis
 
+## CRAN statistics
+
+# The distribution of all CRAN task views related packages
+![The distribution of all CRAN task views related packages](img/tviews_freq_v1.png)
+
+# The distribution of all CRAN task views vs. unique CRAN task views
+![The distribution of all CRAN task views vs. unique CRAN task views](img/tviews_freq_all_vs_unique.png)
+
 D3 JavaScript force directed network graph visualizing connections between task views
 - [forceNetwork] (http://bemined.github.io/TaskviewsGenesis/FN_tviews.html)
 
