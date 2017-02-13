@@ -4,9 +4,9 @@ The usage of the [**taskviews**] (https://github.com/lborke/taskviews) R package
 
 ## CRAN Task Views statistics 
 
-Total CRAN packages: **10036**
+Total [CRAN packages](https://cran.r-project.org): **10036**
 
-Total CRAN Task Views: **34**
+Total [CRAN Task Views](https://cran.r-project.org/web/views): **34**
 
 **The distribution of CRAN task views combinations:**
 
