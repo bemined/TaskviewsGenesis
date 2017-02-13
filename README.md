@@ -8,7 +8,7 @@ Total CRAN packages: **10036**
 
 Total CRAN Task Views: **34**
 
-**The distribution of CRAN task views combinations**
+**The distribution of CRAN task views combinations:**
 
 |Number of task views   |    0|    1|   2|  3|  4|  5|  7|  6|  8|  9| 10|
 |:--|----:|----:|---:|--:|--:|--:|--:|--:|--:|--:|--:|
@@ -18,10 +18,10 @@ Total CRAN Task Views: **34**
 - **One:** exactly one task view assignment.
 - **More than one:** packages having more than one task view assignment.
 
-**The distribution of all CRAN task views related packages**
+**The distribution of all CRAN task views related packages:**
 <p align="center"><img src="img/tviews_freq_v1.png" width="90%" alt="The distribution of all CRAN task views related packages"></p>
 
-**The distribution of all CRAN task views versus unique CRAN task views**
+**The distribution of all CRAN task views versus unique CRAN task views:**
 <p align="center"><img src="img/tviews_freq_all_vs_unique.png" width="90%" alt="all CRAN task views vs. unique CRAN task views"></p>
 
 ## Examples of D3 forceNetwork for CRAN Task Views
