@@ -1,7 +1,7 @@
 ## Taskviews genesis
 
 D3 JavaScript force directed network graph visualizing connections between task views
-- [forceNetwork] (http://lborke.github.io/test/FN_tviews.html)
+- [forceNetwork] (http://bemined.github.io/TaskviewsGenesis/FN_tviews.html)
 
 D3 JavaScript force directed network graph visualizing connections between task views and related packages
 - [Task views: "WebTechnologies", "Spatial", "ReproducibleResearch", "gR", "Bayesian"] (http://bemined.github.io/TaskviewsGenesis/FN_some_tviews_1.html)
