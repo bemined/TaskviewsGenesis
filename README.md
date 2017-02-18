@@ -24,7 +24,7 @@ Total [CRAN Task Views](https://cran.r-project.org/web/views): **34**
 **The distribution of all CRAN task views versus unique CRAN task views:**
 - **Red:** all task views.
 - **Blue:** unique task views.
-<p align="center"><img src="img/tviews_freq_all_vs_unique.png" width="90%" alt="all CRAN task views vs. unique CRAN task views"></p>
+<p align="center"><img src="img/tviews_freq_all_vs_unique.png" width="92%" alt="all CRAN task views vs. unique CRAN task views"></p>
 
 
 
