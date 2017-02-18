@@ -42,3 +42,13 @@ Total [CRAN Task Views](https://cran.r-project.org/web/views): **34**
 - by packages:
     - [D3 forceNetwork] (http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages.html) for the packages: "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap"
 
+## Examples of Three.js graph for CRAN Task Views
+
+**Three.js graph visualizing connections between task views and related packages:**
+- for task views:
+    - [Three.js graph] (http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_tviews.html) for all task views
+    - [Three.js graph] (http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_tviews_with_labels.html) for all task views, labels for task views are displayed
+    - [Three.js graph] (http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_tviews_with_num_and_labels.html) for all task views, labels for task views with number of assigned packages are displayed
+    - [Three.js graph] (http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_tviews_with_all_labels_01.html) for task views: [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html), labels for all task views (with number of assigned packages) and packages are displayed
+- for packages:
+    - [Three.js graph] (http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_tviews_with_given_package_labels.html) for all task views related to packages: "no_tview", "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap"
