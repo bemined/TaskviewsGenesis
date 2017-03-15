@@ -30,17 +30,35 @@ Total [CRAN Task Views](https://cran.r-project.org/web/views): **34**
 
 ## Examples of D3 forceNetwork for CRAN Task Views
 
-**D3 JavaScript force directed network graph visualizing connections between task views:**
+**D3 forceNetwork graph visualizing connections between task views:**
 - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_tviews.html) for all task views
 
-**D3 JavaScript force directed network graph visualizing connections between task views and related packages:**
-- by task views:
-    - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1.html) for task views: [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html)
-    - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2.html) for task views: [Survival](https://cran.r-project.org/web/views/Survival.html), [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [gR](https://cran.r-project.org/web/views/gR.html)
-    - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_3_clickable.html) for task views: [NaturalLanguageProcessing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html), [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html). A click on a node takes the user to the webpage with corresponding task view/package.
-    - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_4.html) for the packages belonging to the [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html) task view
-- by packages:
-    - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages.html) for the packages: "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap"
+**D3 forceNetwork graph visualizing connections between task views and related packages:**
+
+For task views:
+- [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html):
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_no.html)
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_views.html) - with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_all.html) - with task view and package names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_all_clickable.html) - with task view and package names being displayed. A click on a node takes the user to the webpage with the corresponding task view/package
+- [NaturalLanguageProcessing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html), [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html):
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_no.html)
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_views.html) - with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_all.html) - with task view and package names being displayed
+- all currently available task views:
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_no.html)
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_views.html) - with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_all.html) - with task view and package names being displayed
+  
+For packages:
+- "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap"
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_1_labels_no.html)
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_1_labels_views.html) - with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_1_labels_all.html) - with task view and package names being displayed
+- all packages related to the [High-Performance and Parallel Computing with R](https://cran.r-project.org/web/views/HighPerformanceComputing.html) task view
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_2_labels_no.html)
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_2_labels_views.html) - with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_packages_2_labels_all.html) - with task view and package names being displayed
 
 ## Examples of Three.js graph for CRAN Task Views
 
