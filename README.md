@@ -66,18 +66,18 @@ For packages:
 
 For task views:
 - [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html):
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_1.html). Moving the mouse over a node displays the corresponding task view/package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_1.html). Moving the mouse over a node displays the corresponding package name.
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_1_labels.html) with package names being displayed
 - [NaturalLanguageProcessing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html), [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html):
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_2.html). Moving the mouse over a node displays the corresponding task view/package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_2.html). Moving the mouse over a node displays the corresponding package name.
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_2_labels.html) with package names being displayed
 - all currently available task views:
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews.html). Moving the mouse over a node displays the corresponding task view/package name.
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews_white_bg.html) with white background. Moving the mouse over a node displays the corresponding task view/package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews.html). Moving the mouse over a node displays the corresponding package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews_white_bg.html) with white background. Moving the mouse over a node displays the corresponding package name.
 
 For packages:
 - "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap":
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1.html) with preffered package names being displayed. Moving the mouse over a node displays the corresponding task view/package name.
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1_white_bg.html) with white background and preffered package names being displayed. Moving the mouse over a node displays the corresponding task view/package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1.html) with preffered package names being displayed. Moving the mouse over a node displays the corresponding package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1_white_bg.html) with white background and preffered package names being displayed. Moving the mouse over a node displays the corresponding package name.
    - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1_labels.html) with all package names being displayed
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_packages_1_labels_white_bg.html) with white background and all package names being displayed
