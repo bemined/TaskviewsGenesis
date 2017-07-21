@@ -1,6 +1,6 @@
-# Taskviews genesis
+# taskviewsVA genesis
 
-The usage of the **taskviews** R package  with live examples on GitHub pages
+The usage of the **taskviewsVA** R package  with live examples on GitHub pages
 
 ## CRAN Task Views statistics 
 
