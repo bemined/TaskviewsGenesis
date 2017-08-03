@@ -1,6 +1,6 @@
 # taskviewsVA genesis
 
-The usage of the [**taskviewsVA**](https://github.com/lborke/taskviewsVA) R package  with live examples on GitHub pages
+The usage of the [**taskviewsVA**](https://github.com/lborke/taskviewsVA) R package (visual analytics tools for CRAN task views, L. Borke and S. Bykovskaya) with live examples on GitHub pages
 
 ## CRAN Task Views statistics 
 
