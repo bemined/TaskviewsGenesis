@@ -65,15 +65,15 @@ For packages:
 **Interactive 3D graph visualizing connections between task views and related packages:**
 
 For task views:
+- **all currently available task views:**
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews.html). Moving the mouse over a node displays the corresponding package name.
+  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews_white_bg.html) with white background. Moving the mouse over a node displays the corresponding package name.
 - [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html):
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_1.html). Moving the mouse over a node displays the corresponding package name.
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_1_labels.html) with package names being displayed
 - [NaturalLanguageProcessing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html), [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [HighPerformanceComputing](https://cran.r-project.org/web/views/HighPerformanceComputing.html):
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_2.html). Moving the mouse over a node displays the corresponding package name.
   - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_some_tviews_2_labels.html) with package names being displayed
-- all currently available task views:
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews.html). Moving the mouse over a node displays the corresponding package name.
-  - [3D graph](http://bemined.github.io/TaskviewsGenesis/GraphJS/graphjs_all_tviews_white_bg.html) with white background. Moving the mouse over a node displays the corresponding package name.
 
 For packages:
 - "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap":
