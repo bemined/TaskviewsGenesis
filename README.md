@@ -36,6 +36,10 @@ Total [CRAN Task Views](https://cran.r-project.org/web/views): **34**
 **D3 forceNetwork graph visualizing connections between task views and related packages:**
 
 For task views:
+- **all currently available task views:**
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_no.html). Moving the mouse over a node displays the corresponding task view/package name.
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_views.html) with task view names being displayed
+  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_all.html) with task view and package names being displayed
 - [WebTechnologies](https://cran.r-project.org/web/views/WebTechnologies.html), [Spatial](https://cran.r-project.org/web/views/Spatial.html), [ReproducibleResearch](https://cran.r-project.org/web/views/ReproducibleResearch.html), [gR](https://cran.r-project.org/web/views/gR.html), [Bayesian](https://cran.r-project.org/web/views/Bayesian.html):
   - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_no.html). Moving the mouse over a node displays the corresponding task view/package name.
   - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_1_labels_views.html) with task view names being displayed
@@ -45,10 +49,6 @@ For task views:
   - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_no.html). Moving the mouse over a node displays the corresponding task view/package name.
   - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_views.html) with task view names being displayed
   - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_some_tviews_2_labels_all.html) with task view and package names being displayed
-- all currently available task views:
-  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_no.html). Moving the mouse over a node displays the corresponding task view/package name.
-  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_views.html) with task view names being displayed
-  - [D3 forceNetwork](http://bemined.github.io/TaskviewsGenesis/FN/FN_all_tviews_labels_all.html) with task view and package names being displayed
   
 For packages:
 - "abbyyR", "alm", "anametrix", "bigrquery", "downloader", "RgoogleMaps", "plotGoogleMaps", "akima", "cleangeo", "rgdal", "spaMM", "vec2dtransf", "plotKML", "leafletR", "recmap"
